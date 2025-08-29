@@ -23,5 +23,3 @@
 - **PIL (Pillow)** (for image handling)  
 - **smtplib** (for email notifications)  
 - **PyAudio + NumPy** (for real-time FFT audio visualization)  
-   git clone https://github.com/yourusername/spectrum-music.git
-   cd spectrum-music
